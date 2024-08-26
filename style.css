@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Angkor&display=swap');
+.texto{
+background-color: rgb(207, 207, 203);
+}
+h1 {
+    color: blue;
+    display: flex;  
+    justify-content: space-around;
+}
+nav{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-star
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+
+}
+li:hover{
+   
+    box-shadow: 0px -2px 1px 4px rgb(31, 31, 214)
+}
+#lis{
+    width: 100%;
+
+}
+.uno{
+    width: 110%;
+    display: flex;
+    justify-content: space-around;
+}
+header li {
+    color: rgb(255, 255, 255);
+    font-family: "Angkor", serif;
+}
+.ski{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+header ol {
+    
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    
+}
+
+.ini {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.linea{
+    display: flex;
+}
+
+.info h2 {
+    color: aliceblue;
+    font-family: "Angkor", serif;
+    font-style: normal;
+    height: 22px;
+}
+
+header img {
+    width: 150px;
+}
+
+header ul li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: stretch;
+   
+}
+
+.info img {
+    width: 200px;
+    width: 100%;
+
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+.texto_info {
+    margin: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.titulo {
+    flex-direction: column;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.tipo {
+    display: flex;
+    justify-content: space-around;
+    
+
+    align-items: center;
+    margin: 12px 0px 12px 0px;
+
+}
+
+.col-md-5 {
+    margin: 0px 0px 0px 0px;
+}
+
+.igual {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.igual_data{
+    display: flex;
+    justify-content: space-around
+}
+
+.border-end{
+    height: 47px;
+}
+.daño {
+    
+    margin: 0px 0px 0px 0px;
+}
+
+.ancho{
+    
+    width: 41%;
+}
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto_largo {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 100%;
+
+}
+
+.texto_largo p {
+    font-size: 18px;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0px 20px 0px;
+    align-items: center;
+}
+
+.ima img {
+    width: 70px;
+}
+
+.ima {
+    display: flex;
+    align-items: center;
+}
+
+.data_ti {
+    display: flex;
+    justify-content: space-around
+}
